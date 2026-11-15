@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+tilda
+*.idx3-ubyte
+*.idx1-ubyte
+*.gz
+
+__pycache__/
+.venv/
